@@ -35,7 +35,7 @@ disadvantages of React
 role of JSX in react: 
 .JSX stands for JavaScript XML
 .JSX is used by React to write HTML-like code.
-.JSX is converted into JavaScript by Babel.
+.JSX is converted into JavaScript by Babel.   
 
 Declarative syntax using JSX
 its not involves step by step Process 
