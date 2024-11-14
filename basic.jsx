@@ -32,7 +32,7 @@ single page applications is a web applications that loads only one page at a tim
 disadvantages of React
 .react is not a good choice for very vry small applications
 
-role of JSX in react:
+role of JSX in react: 
 .JSX stands for JavaScript XML
 .JSX is used by React to write HTML-like code.
 .JSX is converted into JavaScript by Babel.
